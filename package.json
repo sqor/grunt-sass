@@ -26,7 +26,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "node-sass": "https://github.com/sqor/node-sass/archive/0.8.14.tar.gz",
+    "node-sass": "git://github.com/sqor/node-sass#0.8.15",
     "async": "~0.2.9",
     "chalk": "~0.4.0"
   },
