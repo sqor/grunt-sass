@@ -26,7 +26,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "node-sass": "https://github.com/sqor/node-sass/tarball/master",
+    "node-sass": "https://github.com/sqor/node-sass/archive/0.8.14.tar.gz",
     "async": "~0.2.9",
     "chalk": "~0.4.0"
   },
